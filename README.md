@@ -16,4 +16,4 @@ olacak bir dijital asistan tasarlamak
 >5. Adım: Kapakları kapalı tut, saat = saat + 1 yap. 
 >6. Adım: 3. Adım’a geri git. 
 >7. Adım: Ekrana tahliye saatini (saat) ve kritik su seviyesini (su_seviyesi) yazdır. 
-8. Adım: DUR / BİTİR. 
+>8. Adım: DUR / BİTİR. 
